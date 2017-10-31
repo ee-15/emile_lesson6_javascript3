@@ -13,7 +13,7 @@ Web Application Development
 (The purpose of this assignment was to learn about the methods and propertiesof the browser object model and the document object model)
 
 ### View Project:
-https://github.com/ee-15/emile_lesson6_javascript3.git)
+(https://ee-15.github.io/emile_lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (Each figure element contains an img element, that will display however many images that are specified.)
